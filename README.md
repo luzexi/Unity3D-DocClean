@@ -8,8 +8,8 @@ Unity3D4.6+ Documents load slowly in china because of the google font . This Rep
 * 现在暂时还只有mac的shell脚本。
 
 ### 如何做(How To)
-* mac下直接运行delUnityGoogle.sh文件，它会删除Unity应用文档的google font部分的链接。
-		chmod +x delUnityGoogle.sh
-		./delUnityGoogle.sh
+### mac下直接运行delUnityGoogle.sh文件，它会删除Unity应用文档的google font部分的链接。
+	chmod +x delUnityGoogle.sh
+	./delUnityGoogle.sh
 * windows下还没有。
 
